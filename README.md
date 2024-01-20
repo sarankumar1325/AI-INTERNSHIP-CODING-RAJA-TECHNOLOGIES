@@ -1,6 +1,6 @@
 # AI-INTERNSHIP-CODING-RAJA-TECHNOLOGIES
 
-Welcome to the AI Internship at Coding Raja Technologies! This repository contains a Next.js application with cutting-edge features for AI-powered chat, leveraging React Server Components, Vercel AI SDK, and various other tools and libraries.
+Welcome to the AI Internship at Coding Raja Technologies! This repository contains a Next.js application with cutting-edge features for an AI-powered chatbot, leveraging React Server Components, Vercel AI SDK, and various other tools and libraries.
 
 ## Features
 
@@ -20,5 +20,7 @@ Welcome to the AI Internship at Coding Raja Technologies! This repository contai
 To run the AI Chatbot locally, follow these steps:
 
 1. Clone the repository to your local machine.
-- **bash**
+
+-**bash**
 git clone https://github.com/your-username/AI-INTERNSHIP-CODING-RAJA-TECHNOLOGIES.git
+
