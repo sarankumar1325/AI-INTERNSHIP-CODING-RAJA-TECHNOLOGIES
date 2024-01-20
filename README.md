@@ -15,12 +15,6 @@ Welcome to the AI Internship at Coding Raja Technologies! This repository contai
 - **Chat History and Rate Limiting:** Manage chat history, rate limiting, and session storage seamlessly with Vercel KV.
 - **NextAuth.js for Authentication:** Implement secure authentication with NextAuth.js.
 
-## Running Locally
 
-To run the AI Chatbot locally, follow these steps:
 
-1. Clone the repository to your local machine.
-
--**bash**
-git clone https://github.com/your-username/AI-INTERNSHIP-CODING-RAJA-TECHNOLOGIES.git
 
